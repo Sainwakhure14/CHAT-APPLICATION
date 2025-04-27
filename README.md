@@ -9,7 +9,7 @@
 This project is a Real-Time Chat Application built with Node.js and Socket.IO.
 It is designed to allow multiple users to join a chatroom and send messages to each other instantly without needing to refresh the page. The messages appear to everyone in real-time, just like WhatsApp group chats or Messenger rooms.
 
-How It Works
+- How It Works
 The project mainly has two parts:
 
 Backend Server (written in Node.js with Socket.IO)
@@ -34,7 +34,7 @@ Showing notifications when someone joins or leaves the chat.
 
 The core technology behind this chat app is Socket.IO. Socket.IO is a JavaScript library that enables real-time, bi-directional communication between web clients and servers. It uses WebSocket internally but falls back to other methods if WebSocket is not available.
 
-In this project:
+- In this project:
 
 The server listens on a specific port (for example, 3000).
 
@@ -95,6 +95,6 @@ Broadcasting messages to multiple clients.
 It’s a perfect beginner-level project for learning about real-time web applications, server-client communication, and backend development with Node.js.
 
 #Output :
-
+![Image](https://github.com/user-attachments/assets/c0130e7e-c02c-4c9f-89ca-f80355b3a51a)
 
 
